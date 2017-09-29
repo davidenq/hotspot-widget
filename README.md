@@ -2,6 +2,10 @@
 
 Source code about a partial solution to proposed code test "build a hotspot widget"
 
+## Try online
+
+[click here](http://embed.plnkr.co/suLISkTCiKIBQ3RNWJA2/)
+
 ## How to test?
 
 - Clone or dowloand this repo.
